@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scene PGFVersion="0.19" GSCVersion="0.10.5" id="id821501">
+  <layers>
+    <layer id="id995233">
+      <actors>
+        <actor id="id656328" prototype="id738868">
+          <attributes>
+            <point id="position">
+              <real id="x">160</real>
+              <real id="y">263.5</real>
+            </point>
+            <size id="size">
+              <real id="width">335</real>
+              <real id="height">443</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes>
+                <integer id="tileWidth" name="tileWidth">0</integer>
+                <integer id="tileHeight" name="tileHeight">0</integer>
+              </attributes>
+            </graphics>
+            <motion />
+            <physics>
+              <attributes>
+                <boolean id="movable">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id213921" prototype="id716605">
+          <attributes>
+            <point id="position">
+              <real id="x">155</real>
+              <real id="y">395</real>
+            </point>
+            <size id="size">
+              <real id="width">66</real>
+              <real id="height">100</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes>
+                <integer id="tileWidth" name="tileWidth">0</integer>
+                <integer id="tileHeight" name="tileHeight">0</integer>
+              </attributes>
+            </graphics>
+            <motion>
+              <attributes>
+                <real id="maxSpeed">0</real>
+              </attributes>
+            </motion>
+            <physics>
+              <attributes>
+                <real id="restitution">1</real>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id414400" prototype="id337092">
+          <attributes>
+            <point id="position">
+              <real id="x">160.5</real>
+              <real id="y">52.3030303030304</real>
+            </point>
+            <size id="size">
+              <real id="width">335</real>
+              <real id="height">99</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes>
+                <integer id="tileWidth" name="tileWidth">0</integer>
+                <integer id="tileHeight" name="tileHeight">0</integer>
+              </attributes>
+            </graphics>
+            <motion />
+            <physics>
+              <attributes>
+                <boolean id="movable">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+      </actors>
+      <attributes>
+        <text id="name">Background</text>
+        <boolean id="scrollable">true</boolean>
+      </attributes>
+    </layer>
+  </layers>
+  <attributes>
+    <text id="name">level1</text>
+    <real id="time">0</real>
+    <size id="size">
+      <real id="width">320</real>
+      <real id="height">480</real>
+    </size>
+    <boolean id="wrapX">false</boolean>
+    <boolean id="wrapY">false</boolean>
+    <point id="gravity">
+      <real id="x">0</real>
+      <real id="y">300</real>
+    </point>
+    <color id="color">
+      <real id="red">0</real>
+      <real id="green">0</real>
+      <real id="blue">0</real>
+      <real id="alpha">1</real>
+    </color>
+    <rect id="camera">
+      <point id="origin">
+        <real id="x">0</real>
+        <real id="y">0</real>
+      </point>
+      <size id="size">
+        <real id="width">320</real>
+        <real id="height">480</real>
+      </size>
+      <size id="trackingArea">
+        <real id="width">240</real>
+        <real id="height">420</real>
+      </size>
+      <real id="rotation">0</real>
+    </rect>
+    <attributes id="autorotate">
+      <boolean id="landscapeLeft">true</boolean>
+      <boolean id="portrait">false</boolean>
+      <boolean id="landscapeRight">false</boolean>
+      <boolean id="portraitUpsideDown">false</boolean>
+    </attributes>
+  </attributes>
+</scene>
