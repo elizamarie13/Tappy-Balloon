@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.19" GSCVersion="0.10.5">
+  <sounds />
+  <images>
+    <image name="cartoon-clouds">
+      <file name="cartoon-clouds.png" size="68030" />
+    </image>
+    <image name="colourful-balloons">
+      <file name="colourful-balloons.png" size="217157" />
+    </image>
+    <image name="CONTINUE">
+      <file name="CONTINUE.png" size="10387" />
+    </image>
+    <image name="images">
+      <file name="images.png" size="52034" />
+    </image>
+    <image name="LEVELCOMPLETED">
+      <file name="LEVELCOMPLETED.png" size="23652" />
+    </image>
+    <image name="ok">
+      <file name="ok.png" size="23590" />
+    </image>
+    <image name="play">
+      <file name="play.png" size="5722" />
+    </image>
+    <image name="depositphotos_40784231-Green-balloon-isolated-on-white">
+      <file name="depositphotos_40784231-Green-balloon-isolated-on-white.png" size="77935" />
+    </image>
+    <image name="download">
+      <file name="download.png" size="12543" />
+    </image>
+    <image name="eca4e2d606cfc2ce711a2180d8313a07">
+      <file name="eca4e2d606cfc2ce711a2180d8313a07.png" size="44096" />
+    </image>
+    <image name="grass-hi">
+      <file name="grass-hi.png" size="76365" />
+    </image>
+    <image name="images (1)">
+      <file name="images (1).png" size="47941" />
+    </image>
+    <image name="Picture1">
+      <file name="Picture1.png" size="4379" />
+    </image>
+    <image name="Untitled">
+      <file name="Untitled.png" size="45613" />
+    </image>
+  </images>
+  <behaviors />
+</assets>

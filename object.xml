@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game GSCVersion="0.10.5" PGFVersion="0.19" title="balloon">
+  <attributes>
+    <text id="name">default name</text>
+    <real id="time">0</real>
+    <size id="displaySize">
+      <real id="width">320</real>
+      <real id="height">480</real>
+    </size>
+    <text id="actorTags" />
+    <integer id="id174868" name="Game timer">10</integer>
+  </attributes>
+  <tags />
+  <resolutionIndependence>0</resolutionIndependence>
+  <instructions>Add game instructions here.</instructions>
+  <resolution>1</resolution>
+  <longDescription>A simple game.</longDescription>
+  <prototypes>
+    <actor id="id318590" />
+    <actor id="id374592" />
+    <actor id="id162492" />
+    <actor id="id469371" />
+    <actor id="id254322" />
+    <actor id="id130337" />
+    <actor id="id722193" />
+    <actor id="id738868" />
+    <actor id="id716605" />
+    <actor id="id425825" />
+    <actor id="id337092" />
+    <actor id="id737611" />
+    <actor id="id722198" />
+    <actor id="id730113" />
+    <actor id="id824948" />
+    <actor id="id403556" />
+    <actor id="id675194" />
+    <actor id="id680234" />
+    <actor id="id404176" />
+    <actor id="id951130" />
+    <actor id="id677543" />
+    <actor id="id160657" />
+    <actor id="id578965" />
+    <actor id="id306219" />
+    <actor id="id959596" />
+    <actor id="id991009" />
+    <actor id="id494213" />
+    <actor id="id423405" />
+    <actor id="id931898" />
+    <actor id="id712966" />
+    <actor id="id842303" />
+    <actor id="id615443" />
+    <actor id="id715943" />
+    <actor id="id120391" />
+  </prototypes>
+  <plugins />
+  <scenes>
+    <scene id="id432439" />
+    <scene id="id821501" />
+    <scene id="id271515" />
+    <scene id="id447112" />
+    <scene id="id878145" />
+    <scene id="id639010" />
+    <scene id="id956528" />
+    <scene id="id902230" />
+    <scene id="id491759" />
+    <scene id="id222062" />
+  </scenes>
+</game>
